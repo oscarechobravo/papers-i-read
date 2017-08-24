@@ -9,18 +9,18 @@ Primarily these repositories contain publications gear more towards an HCI/desig
 This repository is currently structured in a per project manner, but given the overlap in research areas I should probably think like this:
 
 > VENUE A
-> |
-> -- Application Area A
-> |
-> -- Application Area B
-> |
-> -- Application Area ... N
-> |
-> VENUE B
-> |
-> -- Application Area ... N
-> |
-> ...
+>\ |
+>\ -- Application Area A
+>\ |
+>\ -- Application Area B
+>\ |
+>\ -- Application Area ... N
+>\ |
+>\ VENUE B
+>\ |
+>\ -- Application Area ... N
+>\ |
+>\ ...
 
 Current repositories:
 - domestic-energy-digital-tech
